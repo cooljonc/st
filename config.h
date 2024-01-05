@@ -257,7 +257,7 @@ static const ColorScheme schemes[] = {
 #define KANAGAWA 3
 
 /* Default activated colorscheme */
-int colorscheme = ST_DEFAULT;
+int colorscheme = ICEBERG_DARK;
 
 /*
  * Default colors (colorname index)

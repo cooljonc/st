@@ -7,5 +7,4 @@ fi
 if cd "$(dirname -- "$0")"; then
 	make clean install
 	make clean
-	rm -f config.h
 fi
